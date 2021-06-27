@@ -17,6 +17,8 @@ Se você gosta de visão computacional baixe grátis meu Guia de visão computac
 ---
 Esse é um projeto Open source e contribuição são bem vindas, você pode criar uma issues para dicutirmo novas ideas. [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/eltonfernando/telegramhomebot/issues)
 
+obs:  Utilize por sua própria conta de risco.
+
 ## dependências
 * python 3.x
 * opencv-contrib-python
