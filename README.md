@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Autor-Elton-blue)](https://www.instagram.com/elton.py/) [![](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![](https://img.shields.io/badge/LIb-Opencv-blue.svg)](https://opencv.org/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/eltonfernando/telegram/issues)
+[![author](https://img.shields.io/badge/Autor-Elton-blue)](https://www.instagram.com/elton.py/) [![](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![](https://img.shields.io/badge/LIb-Opencv-blue.svg)](https://opencv.org/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/eltonfernando/telegramhomebot/issues)
 
 # telegramhomebot
 
@@ -15,6 +15,7 @@ Alterações futuras irá rodar o bot na nuvem heroku e usar um sevidor mqtt par
 Se você gosta de visão computacional baixe grátis meu Guia de visão computacional e receba email quando eu publicar novos artigos. [Baixar](http://visioncompy.com/)
 
 ---
+Esse é um projeto Open source e contribuição são bem vindas, você pode criar uma issues para dicutirmo novas ideas. [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/eltonfernando/telegramhomebot/issues)
 
 ## dependências
 * python 3.x
@@ -37,7 +38,7 @@ Se você gosta de visão computacional baixe grátis meu Guia de visão computac
   
   ## executando Câmera.
   
- No arquivo cam_process.py altere a string video para o link RTSP da sua câmera, ou mantenha como está para executar o vídeo de exemplo.
+ No arquivo cam_process.py altere a string video para o link RTSP da sua câmera, ou mantenha como está para executar o vídeo de exemplo. ``python3 cam_process.py``
 
   ### Link RTSP
   Informações para seu link RTSP 
