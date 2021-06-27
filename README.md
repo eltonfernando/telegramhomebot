@@ -36,7 +36,7 @@ obs:  Utilize por sua própria conta de risco.
   * Primeiro você deve criar um bot no telegram, procure pelo usuário BotFather envie uma mensagem /start. Siga as instruções para criar seu bot, ao final você terá um token.
   * Crie um arquivo de texto na raiz do projeto com nome token e salve seu token, ele dever ser carregado pela chamada  ``TOKEN=open('token',"r").read() `` no arquivo bot.py
    
-  *   rodar o arquivo bot.py, ``python3 bot.py`` . Seu robô está em execução. Procure pelo usuário com o nome do seu bot no telegram, e envie ``\start``. Ele deve responder com seu nome.
+  *   rodar o arquivo bot.py, ``python3 bot.py`` . Seu robô está em execução. Procure pelo usuário com o nome do seu bot no telegram, e envie ``/start``. Ele deve responder com seu nome.
   
   ## executando Câmera.
   
