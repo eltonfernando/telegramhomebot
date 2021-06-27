@@ -15,7 +15,7 @@ Alterações futuras irá rodar o bot na nuvem heroku e usar um sevidor mqtt par
 Se você gosta de visão computacional baixe grátis meu Guia de visão computacional e receba email quando eu publicar novos artigos. [Baixar](http://visioncompy.com/)
 
 ---
-Esse é um projeto Open source e contribuição são bem vindas, você pode criar uma issues para dicutirmo novas ideas. [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/eltonfernando/telegramhomebot/issues)
+Esse é um projeto Open source e contribuição são bem vindas, você pode criar uma issues para discutirmos novas ideas. [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/eltonfernando/telegramhomebot/issues)
 
 obs:  Utilize por sua própria conta de risco.
 
